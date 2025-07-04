@@ -4,3 +4,8 @@
 
 
 Need to learn and understand again this question uses greedy and binary search techniques.
+
+
+
+//for charater genration 
+//we use char Nc = 'a' +((sub+'a'-1)%26)
