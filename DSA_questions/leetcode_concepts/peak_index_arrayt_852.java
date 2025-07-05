@@ -5,10 +5,8 @@ public class peak_index_arrayt_852 {
         System.out.println(peakIndexInMountainArray(arr)); // Output: 1
         // Explanation: The peak index is 1 because arr[1] = 1 is the highest value in the array.
     }
-
-
-
-    
+    // LeetCode Problem: 852. Peak Index in a Mountain Array
+    // A mountain array is defined as an array that has a peak element, which is greater    
     static int peakIndexInMountainArray(int[] arr) {
         int start =0;
 
