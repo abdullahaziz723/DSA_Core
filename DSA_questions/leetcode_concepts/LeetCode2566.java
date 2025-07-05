@@ -63,4 +63,9 @@ class Solution {
         int minval=Integer.parseInt(new String(minchars));
         return maxval-minval;
     }
+
+    public char[] findLucky(int[] arr) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'findLucky'");
+    }
 }
