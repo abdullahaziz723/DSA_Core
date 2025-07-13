@@ -1,4 +1,4 @@
-public class Butterflly_pattern {
+public class Setbuilder {
     public static void main(String[] args) {
 
         String str = "abdullah";
