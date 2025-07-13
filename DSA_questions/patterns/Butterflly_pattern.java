@@ -15,6 +15,12 @@ public class Butterflly_pattern {
         sb.insert(2, 'n');
         System.out.println(sb);
 
+        // delete char at index 2
+        sb.delete(2,3);
+        System.out.println(sb);
+
+        sb.append("abcd");
+        System.out.println(sb);
     }
 
 }
