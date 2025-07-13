@@ -10,7 +10,7 @@ public class Butterflly_pattern {
         ///cha atAtIndex
         System.out.println(sb.charAt(2));
         //set char at index 0
-       sb.setCharAt(0, 'a');
+       sb.setCharAt(0, 'p');
        System.out.println(sb);
 
 
