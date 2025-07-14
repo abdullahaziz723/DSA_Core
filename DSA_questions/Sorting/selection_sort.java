@@ -3,7 +3,7 @@ package Sorting;
 public class selection_sort {
     public static void main(String[] args) {
         // Example array to be sorted
-        int arr[] = {64, 25, 12, 22, 11};
+        int arr[] = {64, 25, 12, 22, 11,11,1};
         selectionSort(arr);
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + "  ");
