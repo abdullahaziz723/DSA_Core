@@ -9,7 +9,7 @@ public class prime {
         Sc.close();
     }
 
-    static boolean isprime(int n){
+   public static boolean isprime(int n){
         if(n<=1){
             return false;
         }
